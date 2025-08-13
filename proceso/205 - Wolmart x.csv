@@ -1,0 +1,25 @@
+Tipo;Pregunta;Respuesta;Saltea
+FOTO;Tomar foto de hoja de detalle (inventario por sistema por número de proveedor);;True
+FOTO;Tomar una foto del anaquel antes de reponer productos de Tratamiento Facial;;True
+BINOMIAL;¿Esta al lado de alguna de estas marcas Loreal-Garnier-Neutrogena-Ponds? (Tratam. facial);No;False
+LISTA;Marca los productos que tenemos en el anaquel de Tratamiento Facial;CREMA FACIAL VITAMINA C 50 ML, SERUM RETINOL, CREMA RETINOL;False
+FOTO;Tomar una foto del anaquel después de reponer productos de Tratamiento Facial;Sin respuesta;True
+FOTO;Tomar una foto del anaquel antes de reponer productos de Limpieza Facial;Sin respuesta;True
+LISTA;Marca los productos que tenemos en el anaquel de Limpieza Facial;GEL LIMPIADOR ACIDO HIALURONICO, GEL LIMPIADOR VITAMINA C;False
+FOTO;Tomar una foto del anaquel después de reponer productos de Limpieza Facial;Sin respuesta;True
+FOTO;Tomar una foto del anaquel antes de reponer productos de Protección facial solar;Sin respuesta;True
+LISTA;Marca los productos que tenemos en el anaquel de protección facial solar ;LABIAL CON PROTECCIÓN SOLAR, STICK FACIAL F-50;False
+BINOMIAL;¿Se acomodo resto de tratamiento facial de Babaria en orden, primero Serum y después Crema?;Si;False
+FOTO;Tomar una foto del anaquel después de reponer productos de Protección facial solar;Sin respuesta;True
+FOTO;Tomar una foto del anaquel antes de reponer productos de Solares Corporales;Sin respuesta;True
+LISTA;Marca los productos que tenemos en el anaquel de Solares Corporales;LECHE PROTECTOR SOLAR ALOE F-50, BRUMA PROTECTOR SOLAR INFANTIL F-50, BRUMA PROTECTOR SOLAR SENSIBLES F-50;False
+FOTO;Tomar una foto del anaquel después de reponer productos de Solares Corporales ;Sin respuesta;True
+FOTO;Tomar una foto del anaquel antes de reponer productos de Corporal;Sin respuesta;True
+LISTA;Marca los productos que tenemos en el anaquel de CORPORAL;CREMA CORPORAL BODY MILK VITAMINA E+, CREMA CORPORAL BODY MILK VITAMINA B3+;False
+FOTO;Tomar una foto del anaquel después de reponer productos de Corporales ;Sin respuesta;True
+FOTO;Tomar una foto del anaquel antes de reponer productos Capilares;Sin respuesta;True
+LISTA;Marca los productos que tenemos en el anaquel de CAPILARES;SHAMPOO CEBOLLA, TRATAMIENTO CEBOLLA;False
+FOTO;Tomar una foto del anaquel después de reponer los productos Capilares;Sin respuesta;True
+BINOMIAL;¿Lograste algun espacio o exhibición adicional?;No;False
+FOTO;Tomar foto de espacio o exhibicion adicional que lograste;Sin respuesta;True
+TEXTO;Comentarios generales;Sin comentarios;False
